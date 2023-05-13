@@ -1,13 +1,29 @@
-こんにちは。気質試行ラボ atdev01 です。
+# Kishitu-Shiko-Lab - 気質試行ラボ
 
-ここでは、現在以下の個人的なプロジェクトを進めています。
+## 概要
 
-日本語が読める方向けに公開しております。
+気質試行ラボ (Kishitsu-Shiko-Lab) へようこそ。
 
-- ATLib - Perl による個人的な標準ライブラリー
+ここでは、いわゆる車輪の再開発も含む個人的なプロジェクトを出力しております。
 
+## プロジェクト
 
-<!---
-Kishitsu-Shiko-Lab/Kishitsu-Shiko-Lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Perl による標準ライブラリ - [Mouse](https://metacpan.org/pod/Mousse)による実装
+
+| ライブラリ                                                            | 説明                     |
+|------------------------------------------------------------------|------------------------|
+| [ATLib-Utils](https://github.com/Kishitsu-Shiko-Lab/ATLib-Utils) | ATLibで使用するユーティリティ関数群   |
+| [ATLib-Std](https://github.com/Kishitsu-Shiko-Lab/ATLib-Std)     | ATLibライブラリによる共通型       |
+| [ATLib-Data](https://github.com/Kishitsu-Shiko-Lab/ATLib-Data)   | ATLibにおいてマトリクス構造を扱う共通型 |
+
+## ライセンスについて
+
+それぞれのソースファイルのドキュメントをご覧ください。
+
+## 著者
+
+atdev01 <mine_t7 at hotmail.com>
+
+## 著作権
+
+Copyright (C) 2023 atdev01.
