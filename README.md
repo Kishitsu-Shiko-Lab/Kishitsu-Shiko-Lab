@@ -8,7 +8,7 @@
 
 ## プロジェクト
 
-### Perl による標準ライブラリ - [Mouse](https://metacpan.org/pod/Mousse)による実装
+### Perl による標準ライブラリ - [Mouse](https://metacpan.org/pod/Mouse)による実装
 
 PODを日本語で記載しているためCPANへのアップ予定は現在のところありません。
 
