@@ -14,17 +14,16 @@ PODを日本語で記載しているためCPANへのアップ予定は現在の�
 
 ライブラリのインストールには、[cpanm](https://metacpan.org/pod/App::cpanminus)などをご利用ください。
 
-| ライブラリ                                                            | 説明                     |
-|------------------------------------------------------------------|------------------------|
-| [ATLib-Utils](https://github.com/Kishitsu-Shiko-Lab/ATLib-Utils) | ATLibで使用するユーティリティ関数群   |
-| [ATLib-Std](https://github.com/Kishitsu-Shiko-Lab/ATLib-Std)     | ATLibライブラリによる共通型       |
-| [ATLib-Data](https://github.com/Kishitsu-Shiko-Lab/ATLib-Data)   | ATLibにおいてマトリクス構造を扱う共通型 |
+| ライブラリ                                                            | 説明                         |
+|------------------------------------------------------------------|----------------------------|
+| [ATLib-Utils](https://github.com/Kishitsu-Shiko-Lab/ATLib-Utils) | ATLibで使用するユーティリティ関数群       |
+| [ATLib-Std](https://github.com/Kishitsu-Shiko-Lab/ATLib-Std)     | ATLibライブラリによる共通型           |
+| [ATLib-Data](https://github.com/Kishitsu-Shiko-Lab/ATLib-Data)   | ATLibにおいてマトリクス構造を扱う共通型     |
+| [ATLib-DBI](https://github.com/Kishitsu-Shiko-Lab/ATLib-DBI) | ATLibにおいてデータベース操作を行うための共通型 | 
 
-## 開発環境について
+### 開発環境について
 
-IntelliJ IDEAと言語ごとに必要なプラグインにて開発しております。
-
-Rustを使用する場合はCLionを使用しております。
+CLion と言語ごとに必要なプラグインにて開発しております。
 
 ## ライセンスについて
 
@@ -36,4 +35,4 @@ atdev01 <mine_t7 at hotmail.com>
 
 ## 著作権
 
-Copyright (C) 2023 atdev01.
+Copyright (C) 2023-2025 atdev01.
